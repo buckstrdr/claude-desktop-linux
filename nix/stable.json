@@ -1,6 +1,6 @@
 {
   "channel": "stable",
-  "version": "1.11847.5",
-  "url": "https://github.com/buckstrdr/claude-desktop-linux/releases/download/v1.11847.5-repack-0/claude-desktop-1.11847.5-repack-0-x86_64-nix.tar.gz",
-  "sha256": "9934f46adea6b9cac1abd6e0be53a3d28fe2837a3a7cbaf4934824aeccf27508"
+  "version": "1.12603.0",
+  "url": "https://github.com/buckstrdr/claude-desktop-linux/releases/download/v1.12603.0-repack-0/claude-desktop-1.12603.0-repack-0-x86_64-nix.tar.gz",
+  "sha256": "2358be2adf09be7413e210ec933c049292a03eb3e3a2d5b38714edf4ed527a90"
 }
